@@ -1,0 +1,14 @@
+apache-airflow==2.7.1
+psycopg2-binary
+pandas
+duckdb
+dbt-core==1.6.0
+dbt-duckdb==1.6.0
+fastapi
+uvicorn
+streamlit
+scikit-learn
+great_expectations
+pytest
+requests
+pyyaml
