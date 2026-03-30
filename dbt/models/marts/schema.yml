@@ -1,0 +1,11 @@
+version: 2
+models:
+  - name: fct_billing
+    description: "Daily aggregated billing facts"
+    columns:
+      - name: dt
+        tests:
+          - not_null
+      - name: total_amount
+        tests:
+          - not_null

@@ -1,0 +1,7 @@
+name: billing_demo
+version: '1.0'
+config-version: 2
+profile: duckdb_profile
+model-paths: ["models"]
+target-path: "target"
+analysis-paths: ["analysis"]

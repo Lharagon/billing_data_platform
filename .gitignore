@@ -1,0 +1,21 @@
+# Code Editor
+.vscode/
+.idea/
+
+# Artifacts
+data/
+logs/
+
+# dbt
+target/
+dbt_packages/
+.user.yml
+
+# Python
+__pycache__/
+
+# Environments
+.venv
+venv/
+env/
+ENV/
